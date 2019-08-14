@@ -25,7 +25,6 @@ class BotsPage extends React.Component {
 
  handleClick = () => {
   
-  
  }
 
 
